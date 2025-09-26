@@ -23,7 +23,7 @@ Please check more demo videos at the [project page](https://wutao-cs.github.io/M
 ## 📌 TODO
 We are organizing the code and applying to the company, please be patient
 - [x] Release project page
-- [] Release inference code
-- [] Release model on huggingface
-- [] Release huggingface demo
-- [] Release training code
+- [ ] Release inference code
+- [ ] Release model on huggingface
+- [ ] Release huggingface demo
+- [ ] Release training code
