@@ -35,13 +35,10 @@ We are organizing the code and applying to the company, please be patient
 
 If you find CustomCrafter helpful to your research, please cite our paper:
 ```
-@misc{wu2025multicrafter,
-      title={MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning}, 
-      author={Tao Wu and Yibo Jiang and Yehao Lu and Zhizhong Wang and Zeyi Huang and Zequn Qin and Xi Li},
-      year={2025},
-      eprint={2509.21953},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.21953}, 
+@article{wu2025multicrafter,
+  title={MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially Disentangled Attention and Identity-Aware Reinforcement Learning},
+  author={Wu, Tao and Jiang, Yibo and Lu, Yehao and Wang, Zhizhong and Huang, Zeyi and Qin, Zequn and Li, Xi},
+  journal={arXiv preprint arXiv:2509.21953},
+  year={2025}
 }
 ```
